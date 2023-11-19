@@ -3,6 +3,7 @@ streamlit
 scikit-learn==1.2.2
 pip==23.2.1
 numpy==1.22.3
-librosa==0.10.1
+librosa
 streamlit-option-menu
 pycaret
+scikit-image
